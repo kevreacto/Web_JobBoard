@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Frontend Developer",
+        "location": "New York, NY",
+        "salary_range": "$70,000 - $100,000",
+        "description": "Seeking a talented frontend developer to join our team in New York. Must have experience with HTML, CSS, and JavaScript. Competitive salary and benefits package.",
+        "apply_url": "https://example.com/apply/frontend-developer"
+    },
+    {
+        "title": "Backend Developer",
+        "location": "San Francisco, CA",
+        "salary_range": "$80,000 - $120,000",
+        "description": "We're hiring a backend developer to work on our cutting-edge projects in San Francisco. Experience with Python, Django, and database management required.",
+        "apply_url": "https://example.com/apply/backend-developer"
+    },
+    {
+        "title": "UI/UX Designer",
+        "location": "Los Angeles, CA",
+        "salary_range": "$60,000 - $90,000",
+        "description": "Join our creative team in Los Angeles as a UI/UX designer. Must have a strong portfolio showcasing your design skills. Competitive salary and flexible work environment.",
+        "apply_url": "https://example.com/apply/ui-ux-designer"
+    },
+    {
+        "title": "Software Engineer",
+        "location": "Seattle, WA",
+        "salary_range": "$90,000 - $130,000",
+        "description": "Looking for a software engineer to join our dynamic team in Seattle. Experience with Java, Spring Boot, and AWS preferred. Competitive salary and excellent growth opportunities.",
+        "apply_url": "https://example.com/apply/software-engineer"
+    },
+    {
+        "title": "Data Scientist",
+        "location": "Boston, MA",
+        "salary_range": "$100,000 - $150,000",
+        "description": "We're seeking a data scientist to analyze large datasets and extract valuable insights in Boston. Must have experience with machine learning algorithms and statistical analysis.",
+        "apply_url": "https://example.com/apply/data-scientist"
+    },
+    {
+        "title": "Product Manager",
+        "location": "Austin, TX",
+        "salary_range": "$95,000 - $140,000",
+        "description": "Join our product team in Austin and lead the development of innovative products. Experience with product lifecycle management and agile methodologies required.",
+        "apply_url": "https://example.com/apply/product-manager"
+    },
+    {
+        "title": "Marketing Specialist",
+        "location": "Chicago, IL",
+        "salary_range": "$60,000 - $90,000",
+        "description": "We're hiring a marketing specialist to execute marketing campaigns and drive brand awareness in Chicago. Must have strong analytical and communication skills.",
+        "apply_url": "https://example.com/apply/marketing-specialist"
+    },
+    {
+        "title": "Financial Analyst",
+        "location": "Denver, CO",
+        "salary_range": "$70,000 - $100,000",
+        "description": "Seeking a financial analyst to provide financial planning and analysis support in Denver. Strong proficiency in Excel and financial modeling required.",
+        "apply_url": "https://example.com/apply/financial-analyst"
+    },
+    {
+        "title": "HR Manager",
+        "location": "Atlanta, GA",
+        "salary_range": "$80,000 - $120,000",
+        "description": "Join our HR team in Atlanta as a manager and oversee employee relations, recruitment, and performance management. Must have HR certification and leadership experience.",
+        "apply_url": "https://example.com/apply/hr-manager"
+    },
+    {
+        "title": "Graphic Designer",
+        "location": "San Diego, CA",
+        "salary_range": "$50,000 - $80,000",
+        "description": "Looking for a creative graphic designer to design marketing materials and visual assets in San Diego. Proficiency in Adobe Creative Suite and strong design skills required.",
+        "apply_url": "https://example.com/apply/graphic-designer"
+    },
+    {
+        "title": "Network Engineer",
+        "location": "Washington, D.C.",
+        "salary_range": "$90,000 - $130,000",
+        "description": "We're hiring a network engineer to design, implement, and maintain network infrastructure in Washington, D.C. Cisco certification and experience with network protocols required.",
+        "apply_url": "https://example.com/apply/network-engineer"
+    },
+    {
+        "title": "Content Writer",
+        "location": "Portland, OR",
+        "salary_range": "$50,000 - $80,000",
+        "description": "Join our content team in Portland and create engaging content for our website, blog, and social media channels. Must have excellent writing and editing skills.",
+        "apply_url": "https://example.com/apply/content-writer"
+    },
+    {
+        "title": "Sales Representative",
+        "location": "Miami, FL",
+        "salary_range": "$60,000 - $100,000",
+        "description": "We're seeking a motivated sales representative to drive sales and build relationships with clients in Miami. Previous sales experience and strong negotiation skills required.",
+        "apply_url": "https://example.com/apply/sales-representative"
+    },
+    {
+        "title": "Customer Support Specialist",
+        "location": "Dallas, TX",
+        "salary_range": "$40,000 - $70,000",
+        "description": "Join our customer support team in Dallas and provide excellent customer service to our clients. Must have strong communication skills and the ability to troubleshoot technical issues.",
+        "apply_url": "https://example.com/apply/customer-support-specialist"
+    },
+    {
+        "title": "Quality Assurance Engineer",
+        "location": "Phoenix, AZ",
+        "salary_range": "$70,000 - $100,000",
+        "description": "Seeking a quality assurance engineer to develop and execute test plans to ensure product quality in Phoenix. Experience with automated testing tools and agile methodologies preferred.",
+        "apply_url": "https://example.com/apply/quality-assurance-engineer"
+    },
+    {
+        "title": "Business Analyst",
+        "location": "Houston, TX",
+        "salary_range": "$80,000 - $120,000",
+        "description": "We're hiring a business analyst to analyze business processes and recommend improvements in Houston. Must have strong analytical and problem-solving skills.",
+        "apply_url": "https://example.com/apply/business-analyst"
+    },
+    {
+        "title": "DevOps Engineer",
+        "location": "Salt Lake City, UT",
+        "salary_range": "$90,000 - $130,000",
+        "description": "Join our DevOps team in Salt Lake City and automate infrastructure deployment and management processes. Experience with cloud platforms and CI/CD pipelines required.",
+        "apply_url": "https://example.com/apply/devops-engineer"
+    },
+    {
+        "title": "Project Manager",
+        "location": "Philadelphia, PA",
+        "salary_range": "$90,000 - $130,000",
+        "description": "Looking for a project manager to lead cross-functional teams and deliver projects on time and within budget in Philadelphia. PMP certification and project management experience required.",
+        "apply_url": "https://example.com/apply/project-manager"
+    },
+    {
+        "title": "Technical Writer",
+        "location": "Detroit, MI",
+        "salary_range": "$60,000 - $90,000",
+        "description": "We're seeking a technical writer to create user manuals, technical documentation, and training materials in Detroit. Must have strong writing skills and technical knowledge.",
+        "apply_url": "https://example.com/apply/technical-writer"
+    },
+    {
+        "title": "System Administrator",
+        "location": "Minneapolis, MN",
+        "salary_range": "$70,000 - $100,000",
+        "description": "Join our IT team in Minneapolis as a system administrator and manage server infrastructure and network operations. Experience with Linux and Windows servers required.",
+        "apply_url": "https://example.com/apply/system-administrator"
+    }
+]

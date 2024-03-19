@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f5f9;
+  }
+  
+  header {
+    background-color: #3498db;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  header div {
+    margin-top: 20px;
+  }
+  
+  header input[type="text"],
+  header button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  header input[type="text"] {
+    width: 200px;
+  }
+  
+  header button {
+    background-color: #fff;
+    color: #3498db;
+    cursor: pointer;
+  }
+  
+  #jobList {
+    margin: 20px;
+  }
+  
+  .job {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .job h2 {
+    color: #3498db;
+  }
+  
+  .job p {
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  .job .apply-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .job .apply-btn:hover {
+    background-color: #2980b9;
+  }
+  
